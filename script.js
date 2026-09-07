@@ -1,4 +1,4 @@
-const teachername = "Prof. Ritik mera beta ";
+const teachername = "Prof. Prathamesh ";
 const teacherTitle = "Sir";
 const teacherGreeting = `${teachername} ${teacherTitle}`;
 document.querySelectorAll("[data-teacher-name]").forEach((element) => {
